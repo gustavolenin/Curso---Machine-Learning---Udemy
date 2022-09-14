@@ -8,4 +8,4 @@ O Machine Learning tem a capacidade de tratar grandes volumes de dados muito rap
 
 Este recurso pode ser aplicado a todos os departamentos de um negócio com o objetivo de obter os insights significativos para as tomadas de decisão mais assertivas, além de ser determinante para automatizar processos, economizar e direcionar recursos corretamente.
 
-Sabendo disto, **neste repositório estarão contidas as atividades desenvolvidas durante o curso**.
+**Neste repositório estarão contidas as atividades desenvolvidas durante o curso [Machine Learning | Solução completa end-to-end (Python)](https://www.udemy.com/course/machine-learning-solucao-completa-end-to-end-api/)**.
